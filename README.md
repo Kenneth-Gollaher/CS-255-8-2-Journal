@@ -15,8 +15,8 @@ One of the documents that I could revise and improve on is the UML use case diag
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-
+The first step is to interview the client and the members that will have an active role with the system, such as the owner, and the IT personnel. In the interview, the team and I asked what requirements they had and how they wanted the system to function. Throughout the interview, note taking is cruicial as it can trigger new questions to ensure all of the clients needs are met. It is important to consider the user needs as they are the client and may need the system to function a certain way and include specific items. Fulfilling the customers vision can spark new clients and a testiment of your companies talent.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-
+Each project may vary in its design and the development team may need to adjust their techniques or stategies to complete the project. There are a variety of models the team can use for that specific project design. Once we have interviewed the client and have all of the requirments, we can implement a model that best suites the design, i.e., a process model or an object model and use it to analyze and design the system. These models are mainly for the development team, but can show the client the inner workings of the system.
